@@ -1,21 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="80">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800');
+    </style>
     <style src="./style.css" >
         .title {
-          transition: fill .3s ease;
-          <!-- cursor: works in github not in preview mode -->
-          cursor: pointer;
-          font-family: Helvetica, sans-serif;
-          border-radius: 5px 5px 5px 5px;
-          fill:#2c1300;
+          font-family: "JetBrains Mono", serif;
+          font-optical-sizing: auto;
           text-anchor: middle;
           dominant-baseline: middle;
-          font-size: 24px;
+          font-size: 80px;
         }
 
     </style>
 
     <g class="title">
-        <rect rx="5" width="100%" height="80"></rect>
-        <text x="50%" y="50%" width="" font-weight="bold" fill="yellow" >TypeScript Course</text>
+        <rect width="1920" height="400"></rect>
+        <text x="50%" y="50%" width="" fill="green" >amenhany.git</text>
     </g>
 </svg>
