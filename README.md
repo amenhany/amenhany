@@ -1,30 +1,30 @@
-![Banner](https://github.com/user-attachments/assets/3ef1c51f-57d3-40d7-86f4-e6f9aa059300)
-<hr>
+<h1 align="center">Hello 👋 I'm Amen Hany</h1>
 
-Hello! I am <b>Amen</b>, and welcome to my GitHub page. I am a 3rd year Computer and Systems Engineering Student and have been learning various programming languages for almost 7 years.
+## 👤 About Me
 
-## Programming Languages 🖥️
+I am a third-year Computer and Systems Engineering Student and have been passionate about computers, programming, games and media since childhood.
 
-### Highly Proficient
-HTML, CSS, Bootstrap, JavaScript, Node.js, Express.js
+## 🚀 Currently Up To
 
-### Proficient
-Java, C++, C#, Unity Game Engine, React, Git, GitHub, SQL, NoSQL (MongoDB) Databases
+- 🐘 Learning PostgreSQL
+- 🖥️ Building full-stack websites using React and Node/Express
+- ☕ Mastering Java
 
-### Previous Experience
-Unix, Eclipse IDE, Visual Studio Code
+## 💻 Stacks & Languages
 
-<!--
-**amenhany/amenhany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-Here are some ideas to get you started:
+### Frameworks
+![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Express](https://img.shields.io/badge/Express-6CC24A?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-2b6648?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Developer Tools
+![Unity](https://img.shields.io/badge/Unity-252c35?style=for-the-badge&logo=unity)
