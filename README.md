@@ -6,7 +6,7 @@ I am a third-year Computer and Systems Engineering Student and have been passion
 
 ## 🚀 Currently Up To
 
-- 🐘 Learning PostgreSQL
+- ⚙️ Mastering C++
 - 🖥️ Building full-stack websites using React and Node/Express
 - ☕ Mastering Java
 
