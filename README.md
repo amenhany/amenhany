@@ -2,11 +2,11 @@
 
 ## 👤 About Me
 
-I am a third-year Computer and Systems Engineering Student and have been passionate about computers, programming, games and media since childhood.
+I am a third-year Computer and Systems Engineering Student with lifelong passion for computers, programming, games and media. My goal is to find the best solution for designing and developing modular, efficient systems that are easy to extend and light to run.
 
 ## 🚀 Currently Up To
 
-- ⚙️ Mastering C++
+- ⚙️ Mastering C++ for game-development
 - 🖥️ Building full-stack websites using React and Node/Express
 - ☕ Mastering Java
 
