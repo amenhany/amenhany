@@ -2,13 +2,13 @@
 
 ## 👤 About Me
 
-I am a third-year Computer and Systems Engineering Student with lifelong passion for computers, programming, games and media. My goal is to find the best solution for designing and developing modular, efficient systems that are easy to extend and light to run.
+I am a senior Computer and Systems Engineering Student with a lifelong passion for computers, programming, games and media. My goal is to find the best solution for designing and developing modular, efficient systems that are easy to extend and light to run.
 
 ## 🚀 Currently Up To
 
-- ⚙️ Mastering C++ for game-development
-- 🖥️ Building full-stack websites using React and Node/Express
-- ☕ Mastering Java
+- 🖥️ Building desktop web apps with Electron + React
+- 📈 Learning Python for Django and Data Analysis
+- 🐳 Learning Docker
 
 ## 💻 Stacks & Languages
 
@@ -18,13 +18,18 @@ I am a third-year Computer and Systems Engineering Student with lifelong passion
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iMjU2cHgiIGhlaWdodD0iMjU2cHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGlkPSJTVkdSZXBvX2JnQ2FycmllciIgc3Ryb2tlLXdpZHRoPSIwIj48L2c%2BPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48L2c%2BPGcgaWQ9IlNWR1JlcG9faWNvbkNhcnJpZXIiPiA8dGl0bGU%2BY3NzMzwvdGl0bGU%2BIDxwYXRoIGQ9Ik0yNC4yMzUgNi41MTlsLTE2LjQ3LTAuMDA0IDAuMjY2IDMuMjc3IDEyLjY1MyAwLjAwMi0wLjMxOSAzLjM5NGgtOC4yOThsMC4zIDMuMjE1aDcuNzI1bC0wLjQ1NyA0LjQwMy0zLjYzNiAxLjAwNS0zLjY5NC0xLjAxMi0wLjIzNS0yLjYzN2gtMy4yNjJsMC4zNjIgNC44MTcgNi44MjkgMi4xMjggNi43MTQtMS45MTIgMS41MjEtMTYuNjc1ek0yLjg3OSAxLjAwNGgyNi4yNDJsLTIuMzg3IDI2Ljk0Ni0xMC43NjMgMy4wNDUtMTAuNzAzLTMuMDQ3eiI%2BPC9wYXRoPiA8L2c%2BPC9zdmc%2B) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-262626?style=for-the-badge&logo=typescript)
+
 
 ### Frameworks
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-c16a98?style=for-the-badge&logo=sass&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-303241?style=for-the-badge&logo=electron&logoColor=a2d4e3)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![ExpressJS](https://img.shields.io/badge/Express-323232?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2b6648?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ### Developer Tools
 ![Unity](https://img.shields.io/badge/Unity-252c35?style=for-the-badge&logo=unity)
