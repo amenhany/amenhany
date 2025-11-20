@@ -2,7 +2,8 @@
 
 ## 👤 About Me
 
-I am a senior Computer and Systems Engineering Student with a lifelong passion for computers, programming, games and media. My goal is to find the best solution for designing and developing modular, efficient systems that are easy to extend and light to run.
+I am a senior Computer and Systems Engineering Student with a lifelong passion for computers, programming, games and media. I’m looking for
+opportunities where I can apply my skills in real projects and learn from experienced engineers, and contribute to practical, well-structured solutions.
 
 ## 🚀 Currently Up To
 
