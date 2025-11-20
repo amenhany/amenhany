@@ -6,7 +6,7 @@ I am a senior Computer and Systems Engineering Student with a lifelong passion f
 
 ## 🚀 Currently Up To
 
-- 🖥️ Building desktop web apps with Electron + React
+- 🖥️ Building a NEXT.js web app
 - 📈 Learning Python for Django and Data Analysis
 - 🐳 Learning Docker
 
