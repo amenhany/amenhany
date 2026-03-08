@@ -24,8 +24,10 @@ opportunities where I can apply my skills in real projects and learn from experi
 
 ### Frameworks
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
 ![Sass](https://img.shields.io/badge/Sass-c16a98?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-303241?style=for-the-badge&logo=electron&logoColor=a2d4e3)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![ExpressJS](https://img.shields.io/badge/Express-323232?style=for-the-badge&logo=express)
