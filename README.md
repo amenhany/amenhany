@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 
-I am a senior Computer and Systems Engineering student with a lifelong passion for computers, programming, games, and media. I love creating things—especially things I can use in my daily life—and I aim to contribute to projects that meaningfully benefit others. I am constantly seeking the most efficient solution to any problem. To me, that is the balance between optimization and simplicity.
+I am a senior Computer and Systems Engineering student with a lifelong passion for computers, programming, games, and media. I love creating things, especially things I can use in my daily life, and I aim to contribute to projects that meaningfully benefit others. I am constantly seeking the most efficient solution to any problem. To me, that is the balance between optimization and simplicity.
 
 ## 🚀 Currently Up To
 
